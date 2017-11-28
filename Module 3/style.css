@@ -1,0 +1,56 @@
+.wrapper {
+   background: #6D6562 url(https://image.ibb.co/nR0DXQ/chess_field2.jpg);
+   width: 480px;
+   height: 120px;
+}
+.content-box {
+  box-sizing: content-box;
+  width: 480px;
+  height: 1392px;
+  margin: auto;
+  margin-top: 240px;
+  padding-left: 37px;
+  padding-right: 37px;
+  background-color: #fff;
+}
+
+.title1 {
+	font-size: 25px;
+	color: #263555;
+	padding-top: 60px;
+}
+.title2 {
+  font-size: 14px;
+  color: #263555;
+  padding-top: 27px;
+}
+.title3 {
+  font-size: 25px;
+  color: #263555;
+  margin-top: 50px;
+  margin-bottom: 29px;
+}
+.title4 {
+  font-size: 14px;
+  color: #263555;
+}
+.title5 {
+  font-size: 25px;
+  color: #263555;
+}
+
+.text {
+  font-size: 12px;
+  margin-top: 22px;
+}
+.text2 {
+  margin-right: 115px;
+  font-size: 12px;
+  margin-top: 15px;
+  margin-bottom: 25px;
+}
+.text3 {
+  margin-top: 20px;
+  font-size: 12px;
+  margin-bottom: 40px;
+}
